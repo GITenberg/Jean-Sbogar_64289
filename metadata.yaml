@@ -1,5 +1,5 @@
 _repo: Jean-Sbogar_64289
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   annotator:
     agent_name: Janin, Jules Gabriel
@@ -21,6 +21,9 @@ contributor:
   - agent_name: Picard, Georges
     gutenberg_agent_id: '52843'
     url: http://www.gutenberg.org/2009/agents/52843
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nodier, Charles
@@ -33,6 +36,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Charles_Nodier
     - http://en.wikipedia.org/wiki/Charles_Nodier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64289#Jean-Sbogar
 gutenberg_issued: '2021-01-14'
 gutenberg_type: Text
 identifiers:
