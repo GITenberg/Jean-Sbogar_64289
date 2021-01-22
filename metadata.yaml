@@ -1,0 +1,47 @@
+_repo: Jean-Sbogar_64289
+_version: 0.0.1
+contributor:
+  annotator:
+    agent_name: Janin, Jules Gabriel
+    alias: Janin, J. (Jules)
+    birthdate: 1804
+    deathdate: 1874
+    gutenberg_agent_id: '4431'
+    url: http://www.gutenberg.org/2009/agents/4431
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Jules_Janin
+    - https://en.wikipedia.org/wiki/Jules_Janin
+  illustrators:
+  - agent_name: Mittis, Luigi Rossi
+    gutenberg_agent_id: '52842'
+    url: http://www.gutenberg.org/2009/agents/52842
+  - agent_name: Marold, Luděk
+    gutenberg_agent_id: '52841'
+    url: http://www.gutenberg.org/2009/agents/52841
+  - agent_name: Picard, Georges
+    gutenberg_agent_id: '52843'
+    url: http://www.gutenberg.org/2009/agents/52843
+creator:
+  author:
+    agent_name: Nodier, Charles
+    alias: Nodier, Jean Charles Emmanuel
+    birthdate: 1780
+    deathdate: 1844
+    gutenberg_agent_id: '7795'
+    url: http://www.gutenberg.org/2009/agents/7795
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Charles_Nodier
+    - http://en.wikipedia.org/wiki/Charles_Nodier
+description: ''
+gutenberg_issued: '2021-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64289'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Jean Sbogar
+url: http://www.gutenberg.org/ebooks/64289
